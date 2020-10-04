@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "882295732711",
+    "firebase_url": "https://skoolup-fc0a7.firebaseio.com",
+    "project_id": "skoolup-fc0a7",
+    "storage_bucket": "skoolup-fc0a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882295732711:android:d50803363bf450eb9de542",
+        "android_client_info": {
+          "package_name": "com.example.ninthj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882295732711-dv9fr58dmkkbc9756smj89l6n2a51o4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ninthj",
+            "certificate_hash": "dbbbe9ed56c507dc15b9f9a855c8d792814806d8"
+          }
+        },
+        {
+          "client_id": "882295732711-kumj5erpv8s2i314i65odb6kd2qdhvmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdiKIx0Xq-9ohyl5R79OILhBlitycdGPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882295732711-kumj5erpv8s2i314i65odb6kd2qdhvmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882295732711:android:83ca41dcdfce969c9de542",
+        "android_client_info": {
+          "package_name": "com.example.phoneverificationwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882295732711-kumj5erpv8s2i314i65odb6kd2qdhvmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdiKIx0Xq-9ohyl5R79OILhBlitycdGPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882295732711-kumj5erpv8s2i314i65odb6kd2qdhvmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882295732711:android:ab674259be7709649de542",
+        "android_client_info": {
+          "package_name": "com.example.skoolup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882295732711-8pp8dqm78t54u93t9iuovro6foi69l1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skoolup",
+            "certificate_hash": "7e4530802a18c78c21c78db0935a5d499e983956"
+          }
+        },
+        {
+          "client_id": "882295732711-kumj5erpv8s2i314i65odb6kd2qdhvmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdiKIx0Xq-9ohyl5R79OILhBlitycdGPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882295732711-kumj5erpv8s2i314i65odb6kd2qdhvmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
